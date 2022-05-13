@@ -1,5 +1,29 @@
+body {
+  background-color: coral;
+}
+
+.pds {
+  display: flex;
+
+  justify-content: space-evenly;
+}
+
+.font-specs {
+  font-family: "Times New Roman", Times, serif;
+  color: #f9dec9;
+}
+
+.img-size {
+  height: 38vmin;
+}
+
 .App {
   text-align: center;
+}
+
+.App-pic {
+  height: 138vmin;
+  pointer-events: none;
 }
 
 .App-logo {
